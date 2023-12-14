@@ -1,2 +1,2 @@
 # Detona-Ralph
-Desafio de criar jogo - Detona Ralph (DIO)
+Desafio de criar jogo - Detona Ralph
